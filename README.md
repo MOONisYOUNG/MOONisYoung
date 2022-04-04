@@ -1,16 +1,28 @@
-### Hi there 👋
+# Projects
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MoonYoung%20Song&fontSize=60)
+<strong><h2>🚩그동안 했던 프로젝트들</h2></strong>
 
-<!--
-**MooooonYoung/MooooonYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![First Image](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![Second Image](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white) ![Third Image](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![Fourth Image](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MySQL&logoColor=white)
 
-Here are some ideas to get you started:
+🔸<strong>교내 공모전 : 코로나 안심 식당 찾아주기 --> 기획 및 발표를 주로 담당</strong>
+1. 코로나 알림 문자, 안심 식당 공공데이터 다운로드
+2. 데이터 전처리
+3. MongoDB를 사용하여 사용자 위치와 가까이 있는 안심 식당을 시각화    
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔸<strong>교내 동아리 : 학교 대외 이미지 분석하기 --> 전체 과정 모두 담당</strong>
+1. beautifulsoup4, selenium 등을 이용하여 웹 크롤링 진행
+2. 데이터 전처리 
+3. R을 사용하여 워드 클라우드, 토픽 모델링 등으로 시각화    
+</br>
+
+🔸<strong>데이터 청년 캠퍼스 : Lip2Text --> 데이터 전처리를 주로 담당</strong>
+1. 영상 데이터 크롤링
+2. 데이터 전처리
+3. 모델 제작 및 학습    
+</br>
+
+🔸<strong>교내 동아리 : SNS로 보는 코로나 백신 부작용 --> 전체 과정 모두 담당</strong>
+1. beautifulsoup4, selenium 등을 이용하여 웹 크롤링 진행
+2. R, Python 등을 사용하여 워드 클라우드, 토픽 모델링, tf-idf 지수 등으로 시각화    
+</br>
