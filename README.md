@@ -1,5 +1,5 @@
 # Projects
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFA5A4&height=300&section=header&text=MoonYoung%20Song&fontSize=55&fontColor=805252)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFA45B&height=300&section=header&text=MoonYoung%20Song&fontSize=55&fontColor=FFDA77)
 <strong><h2>🚩그동안 했던 프로젝트들</h2></strong>
 
 ![First Image](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![Second Image](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white) ![Third Image](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![Fourth Image](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MySQL&logoColor=white)
