@@ -1,7 +1,7 @@
 # Projects
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFCD4A&height=300&section=header&text=MoonYoung%20Song&fontSize=55&fontColor=F9882C)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOONisYOUNG&layout=compact&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOONisYOUNG&layout=compact&theme=swift)
 
 <strong><h2>🚩그동안 했던 프로젝트들</h2></strong>
 
