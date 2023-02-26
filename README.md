@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOONisYOUNG&layout=compact&theme=buefy)
+
 # Projects
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFCD4A&height=300&section=header&text=MoonYoung%20Song&fontSize=55&fontColor=F9882C)
 <strong><h2>🚩그동안 했던 프로젝트들</h2></strong>
@@ -26,5 +28,3 @@
 1. beautifulsoup4, selenium 등을 이용하여 웹 크롤링 진행
 2. R, Python 등을 사용하여 워드 클라우드, 토픽 모델링, tf-idf 지수 등으로 시각화    
 </br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOONisYOUNG&layout=compact&theme=buefy)
