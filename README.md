@@ -27,4 +27,4 @@
 2. R, Python 등을 사용하여 워드 클라우드, 토픽 모델링, tf-idf 지수 등으로 시각화    
 </br>
 
-github-readme-stats.vercel.app/api/top-langs/?username=MOONisYOUNG&langs_count=2
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOONisYOUNG&layout=compact&theme=buefy)
