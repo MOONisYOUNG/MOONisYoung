@@ -6,17 +6,18 @@
 <br>
 
 <strong><h2>Programming Language</h2></strong>
-* ![First Image](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) 
-![Second Image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) 
+* ![PL Image1](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
+![PL Image2](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![PL Image3](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) 
 
 <strong><h2>DB</h2></strong>
-* ![Third Image](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
-![Fourth Image](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MySQL&logoColor=white) 
+* ![DB Image1](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
+![DB Image2](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MySQL&logoColor=white) 
 
 <strong><h2>AI Framework</h2></strong>
-* ![Fifth Image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) 
-![Sixth Image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Seventh Image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
+* ![AI Image1](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) 
+![AI Image2](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![AI Image3](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
 
 <br>
 
