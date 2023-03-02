@@ -5,10 +5,17 @@
 
 <strong><h2>🚩그동안 했던 프로젝트들</h2></strong>
 
-* ![First Image](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) ![Second Image](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) 
+<strong><h2>Programming Language</h2></strong>
+* ![First Image](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) 
+* ![Second Image](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) 
+
+<strong><h2>DB</h2></strong>
 * ![Third Image](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
-![Fourth Image](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MySQL&logoColor=white) 
-* ![Fifth Image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![Sixth Image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Seventh Image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
+* ![Fourth Image](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MySQL&logoColor=white) 
+
+<strong><h2>AI Framework</h2></strong>
+* ![Fifth Image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) 
+* ![Sixth Image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Seventh Image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
 
 🔸<strong>교내 공모전 : 코로나 안심 식당 찾아주기 (기획 및 발표를 주로 담당)</strong>
 1. 코로나 알림 문자, 안심 식당 공공데이터 다운로드
