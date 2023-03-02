@@ -6,9 +6,7 @@
 <br>
 
 <strong><h2>Programming Language</h2></strong>
-* ![PL Image1](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
-![PL Image2](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) 
-![PL Image3](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![PL Image1](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) ![PL Image2](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) ![PL Image3](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 
 <strong><h2>DB</h2></strong>
 * ![DB Image1](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
