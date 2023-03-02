@@ -3,8 +3,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOONisYOUNG&layout=compact&theme=swift)
 
-<br>
-
 <strong><h2>Programming Language</h2></strong>
 * ![PL Image1](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) 
 ![PL Image2](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) 
