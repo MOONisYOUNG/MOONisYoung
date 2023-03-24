@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOONisYOUNG&layout=compact&theme=swift)
 ## Emoji Meanings
 * 📗: Reading a book for study
-* 📄: Searching Web sites for study
+* 🌎: Searching Web sites for study
 * 💻: Doing a project for advanced study
 
 <strong><h2>Programming Language</h2></strong>
