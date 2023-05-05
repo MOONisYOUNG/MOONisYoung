@@ -14,7 +14,7 @@
 
 <strong><h2>DB</h2></strong>
 * ![DB Image1](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
-![DB Image2](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MySQL&logoColor=white) 
+![DB Image2](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) 
 
 <strong><h2>AI Framework</h2></strong>
 * ![AI Image1](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) 
