@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> 
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> 
+  <img src="https://img.shields.io/badge/lang chain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> 
 </div>
 
 ## 👉 Emoji Meanings
