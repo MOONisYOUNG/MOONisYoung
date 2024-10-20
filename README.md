@@ -2,6 +2,7 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOONisYOUNG&layout=compact&theme=swift) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=smy6954)](https://solved.ac/smy6954)
 
+
 <strong><h2>✔️ Programming Language</h2></strong>
 <div align=left> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"> 
@@ -38,3 +39,12 @@
 * 📗: Reading a book for study
 * 🌎: Searching Web sites for study
 * 💻: Doing a project for advanced study
+
+<br>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/MOONisYOUNG"
+    width="600"
+    height="120"
+  />
+</a>
