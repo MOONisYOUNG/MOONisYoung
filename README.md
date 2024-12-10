@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
 </div>
 
 <strong><h2>✔️ DB</h2></strong>
@@ -31,6 +31,12 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> 
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> 
   <img src="https://img.shields.io/badge/lang chain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> 
+</div>
+
+<strong><h2>✔️ Backend</h2></strong>
+<div align=left> 
+  <img src="https://github.com/user-attachments/assets/0dfc733b-c6f7-45ca-adc2-eccb8ff463ff" width="70">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 </div>
 
 ## 👉 Emoji Meanings
