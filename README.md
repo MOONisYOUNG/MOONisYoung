@@ -39,16 +39,13 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 </div>
 
-## 👉 Emoji Meanings
-* 📗: Reading a book for study
-* 🌎: Searching Web sites for study
-* 💻: Doing a project for advanced study
+</br>
 
-<br>
+## 🤗 Total Contributions
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/MOONisYOUNG"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/MOONisYOUNG"
+  width="600"
+  height="300"
+/>
 </a>
