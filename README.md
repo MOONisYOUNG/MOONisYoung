@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFCD4A&height=300&section=header&text=MoonYoung%20&fontSize=55&fontColor=F9882C)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=C9E6D1&text=🌙%20MoonYoung%20Song%20🎵&fontColor=426E5E)
 
 <strong><h2>✔️ Programming Language</h2></strong>
 <div align=left> 
