@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFCD4A&height=300&section=header&text=MoonYoung%20&fontSize=55&fontColor=F9882C)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOONisYOUNG&layout=compact&theme=swift) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=smy6954)](https://solved.ac/smy6954)
-
-
 <strong><h2>✔️ Programming Language</h2></strong>
 <div align=left> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=R&logoColor=white">
 </div>
 
 <strong><h2>✔️ DB</h2></strong>
