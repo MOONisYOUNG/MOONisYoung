@@ -17,14 +17,14 @@
   <img src="https://img.shields.io/badge/neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white">
 </div>
 
-<strong><h2>✔️ Data Pre-processing</h2></strong>
+<strong><h2>✔️ Data Processing</h2></strong>
 <div align=left> 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white">
 </div>
 
-<strong><h2>✔️ AI & ML Framework</h2></strong>
+<strong><h2>✔️ AI & ML</h2></strong>
 <div align=left> 
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
