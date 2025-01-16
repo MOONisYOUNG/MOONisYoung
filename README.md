@@ -35,7 +35,6 @@
 
 <strong><h2>✔️ Backend</h2></strong>
 <div align=left> 
-  <img src="https://github.com/user-attachments/assets/0dfc733b-c6f7-45ca-adc2-eccb8ff463ff" width="70">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 </div>
 
