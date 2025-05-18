@@ -38,7 +38,9 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 </div>
 
-</br>
+
+## 🏅 Baekjoon (Problem Solving)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smy6954)](https://solved.ac/smy6954/)
 
 ## 🤗 Total Contributions
 <a href="https://github.com/devxb/gitanimals">
